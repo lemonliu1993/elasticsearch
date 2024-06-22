@@ -3,7 +3,6 @@ package com.lemon.es.test;
 import org.apache.http.HttpHost;
 import org.elasticsearch.client.RestClient;
 import org.elasticsearch.client.RestHighLevelClient;
-import org.elasticsearch.client.transport.TransportClient;
 
 import java.io.IOException;
 
